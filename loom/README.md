@@ -4,7 +4,7 @@ This folder contains the link and description for the Lesson 2 Loom video submis
 
 ## Video Link
 
-**[INSERT LOOM LINK HERE]**
+**[[LOOM LINK HERE](https://www.loom.com/share/bd39a76eefd74497a20aa1c4b8670b28)]**
 
 ## Video Description
 
