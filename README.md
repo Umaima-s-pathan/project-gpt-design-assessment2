@@ -30,7 +30,7 @@ Exercise 8 includes a fully tested Legal Contract Summarizer GPT with:
 ## Loom Video Walkthrough
 
 A detailed walkthrough is available here:  
-**[INSERT LOOM LINK HERE]**
+**[[ LOOM LINK HERE](https://www.loom.com/share/bd39a76eefd74497a20aa1c4b8670b28)]**
 
 ---
 
